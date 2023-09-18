@@ -28,8 +28,6 @@ Here are some of the notable data science projects I have worked on. Each projec
         Technologies: [List the data science libraries, frameworks, and tools employed]
         GitHub Repository: [Provide a link to the GitHub repository]
 
-[Add more projects as necessary]
-
 Get in Touch
 
 If you have any questions, collaboration opportunities, or would like to discuss data science projects, please feel free to reach out to me. You can contact me via email at [P.K.Darabi@gmail.com] or connect with me on LinkedIn.
