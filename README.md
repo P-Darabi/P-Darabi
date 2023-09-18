@@ -1,5 +1,3 @@
-GitHub Portfolio: [P-Darabi]
-
 Welcome to my GitHub portfolio! I am Parisa Karimi Darabi, a passionate and skilled data science with a strong focus on [Machine Learning and Deep Learning]. Through this portfolio, I aim to showcase my data science projects, machine learning models, and contributions to the data science community.
 
 About Me
