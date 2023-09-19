@@ -5,11 +5,13 @@ Welcome to my GitHub portfolio! I am Parisa Karimi Darabi, a passionate and skil
 ## Skills
 
 - Programming Languages: Python, SQL
-- Machine Learning: Machine learning algorithms, statistical modeling, feature engineering
-- Data Manipulation and Analysis: Pandas, NumPy, and data analysis tools (Jupyter Notebook)
-- Data Visualization: Matplotlib, Seaborn, ggplot
-- Deep Learning: TensorFlow and CNN architecture
+- Machine Learning: Supervised Learning, Unsupervised Learning, Gradient Boosting(AdaBoost, Catboost, LightGBM, XGBoost), Ensemble learning, Model Evaluation and Validation
+- Feature Engineering: Feature Selection, Feature Extraction, Dimensionality Reduction, Imputation, Scaling, Encoding
+- Data Manipulation and Analysis: Pandas, NumPy, Scikit-learn, Jupyter Notebook, Data Cleaning, Exploratory Data Analysis
+- Data Visualization: Matplotlib, Seaborn, ggplot, Plotly, Tableau
+- Deep Learning: TensorFlow, Keras, Convolutional Neural Networks
 - Version Control: GitHub
+
 
 ## Projects
 
