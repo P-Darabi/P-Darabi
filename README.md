@@ -15,37 +15,37 @@ Projects
 
 Here are some of the notable data science projects I have worked on. Each project demonstrates my ability to analyze data, develop machine learning models, and derive meaningful insights.
 
-- Project Name: [Rice Classification by CNN](#rice-classification-by-cnn)
+- Rice Classification by CNN
   - Description: Rice Variety Classification and Quality Evaluation Using Image Analysis
   - Technologies: Convolutional neural network, TensorFlow
   - GitHub Repository: [Rice Classification by CNN](https://github.com/P-Darabi/Rice_Classification_By_CNN)
 
-- Project Name: [Diagnosis Of Pneumonia By CNN Classifier](#diagnosis-of-pneumonia-by-cnn-classifier)
+- Diagnosis Of Pneumonia By CNN Classifier
   - Description: Chest X-ray Classification for Pneumonia Detection
   - Technologies: Convolutional neural network, TensorFlow
   - GitHub Repository: [Diagnosis Of Pneumonia By CNN Classifier](https://github.com/P-Darabi/Diagnosis_Of_Pneumonia_By_CNN_Classifier)
 
-- Project Name: [Prediction Of Ticket Cancellation by XGBoost Classifier](#prediction-of-ticket-cancellation-by-xgboost-classifier)
+- Prediction Of Ticket Cancellation by XGBoost Classifier
   - Description: The objective of this project is to develop a model that accurately predicts whether users will cancel their tickets. Each cancellation incurs a fine for the ticket registration site from the passenger company
   - Technologies: sklearn, xgboost, GridSearchCV, ..
   - GitHub Repository: [Prediction Of Ticket Cancellation by XGBoost Classifier](https://github.com/P-Darabi/Prediction_Of_Ticket_Cancellation_Acc_98/tree/main)
 
-- Project Name: [Prediction Of Diabetes XGBoost CatBoost](#prediction-of-diabetes-xgboost-catboost)
+- Prediction Of Diabetes XGBoost CatBoost
   - Description: XGBoost and CatBoost are powerful machine-learning models that can be used to predict diabetes
   - Technologies: sklearn, xgboost, catboost, GridSearchCV, ..
   - GitHub Repository: [Prediction Of Diabetes XGBoost CatBoost](https://github.com/P-Darabi/Prediction_Of_Diabetes_XGBoost_CatBoost)
 
-- Project Name: [Forecasting Life Expectancy By Regression Models](#forecasting-life-expectancy-by-regression-models)
+- Forecasting Life Expectancy By Regression Models
   - Description: This notebook aims to forecast the life expectancy of nations by examining health, financial, and national factors
   - Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, linear_model, ensemble, sklearn.metrics
   - GitHub Repository: [Forecasting Life Expectancy By Regression Models](https://github.com/P-Darabi/Forecasting_Life_Expectancy_By_Regression_Models)
 
-- Project Name: [Predict Price Of Diamond By Regression Models](#predict-price-of-diamond-by-regression-models)
+- Predict Price Of Diamond By Regression Models
   - Description: My primary objective in this problem is to accurately predict the price of diamonds by analyzing a comprehensive set of their defining characteristics
   - Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, linear_model, ensemble, sklearn.metrics
   - GitHub Repository: [Predict Price Of Diamond By Regression Models](https://github.com/P-Darabi/Predict_Price_Of_Diamond/tree/main)
 
-- Project Name: [Bank Marketing Strategies for Future Success](#bank-marketing-strategies-for-future-success)
+- Bank Marketing Strategies for Future Success
   - Description: Analysis of Bank Marketing Strategies for Future Success
   - Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, ensemble, sklearn.metrics
   - GitHub Repository: [Bank Marketing Strategies for Future Success](https://github.com/P-Darabi/Bank_Marketing_Strategies_for_Future_Success)
