@@ -17,40 +17,41 @@ Projects
 
 Here are some of the notable data science projects I have worked on. Each project demonstrates my ability to analyze data, develop machine learning models, and derive meaningful insights.
 
-    Project Name: Rice Classification by CNN
+    Rice Classification by CNN
         Description: Rice Variety Classification and Quality Evaluation Using Image Analysis
         Technologies: Convolutional neural network, TensorFlow
         GitHub Repository: Rice Classification by CNN
 
-    Project Name: Diagnosis Of Pneumonia By CNN Classifier
+    Diagnosis Of Pneumonia By CNN Classifier
         Description: Chest X-ray Classification for Pneumonia Detection
         Technologies: Convolutional neural network, TensorFlow
         GitHub Repository: Diagnosis Of Pneumonia By CNN Classifier
 
-    Project Name: Prediction Of Ticket Cancellation by XGBoost Classifier
+    Prediction Of Ticket Cancellation by XGBoost Classifier
         Description: Predicting ticket cancellations to assist the ticket registration site in avoiding fines
         Technologies: sklearn, xgboost, GridSearchCV, etc.
         GitHub Repository: Prediction Of Ticket Cancellation by XGBoost Classifier
 
-    Project Name: Prediction Of Diabetes with XGBoost and CatBoost
+    Prediction Of Diabetes with XGBoost and CatBoost
         Description: Using XGBoost and CatBoost to predict diabetes
         Technologies: sklearn, xgboost, catboost, GridSearchCV, etc.
         GitHub Repository: Prediction Of Diabetes XGBoost CatBoost
 
-    Project Name: Forecasting Life Expectancy By Regression Models
+    Forecasting Life Expectancy By Regression Models
         Description: Forecasting life expectancy based on health, financial, and national factors
         Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, linear_model, ensemble, sklearn.metrics
         GitHub Repository: Forecasting Life Expectancy By Regression Models
 
-    Project Name: Predict Price Of Diamond By Regression Models
+    Predict Price Of Diamond By Regression Models
         Description: Accurately predicting the price of diamonds based on comprehensive characteristics
         Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, linear_model, ensemble, sklearn.metrics
         GitHub Repository: Predict Price Of Diamond By Regression Models
 
-    Project Name: Bank Marketing Strategies for Future Success
+    Bank Marketing Strategies for Future Success
         Description: Analysis of Bank Marketing Strategies for Future Success
         Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, ensemble, sklearn.metrics
         GitHub Repository: Bank Marketing Strategies for Future Success
+
 
 Get in Touch
 
