@@ -7,7 +7,6 @@ Skills
 - Machine Learning: [machine learning algorithms](#machine-learning-algorithms), [statistical modeling](#statistical-modeling), [feature engineering](#feature-engineering)
 - Data Manipulation and Analysis: [Pandas](#pandas), [NumPy](#numpy), and data analysis tools ([Jupyter Notebook](#jupyter-notebook))
 - Data Visualization: data visualization libraries ([Matplotlib](#matplotlib), [Seaborn](#seaborn), [ggplot](#ggplot))
-- Big Data Technologies: big data frameworks ([Spark](#spark))
 - Deep Learning: deep learning frameworks ([TensorFlow](#tensorflow)) and CNN architecture
 - Version Control: [GitHub](#github)
 
