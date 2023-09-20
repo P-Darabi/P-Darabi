@@ -29,7 +29,7 @@ Here are some of the notable data science projects I have worked on. Each projec
 - Technologies: Convolutional neural network, TensorFlow
 - GitHub Repository: [Diagnosis Of Pneumonia By CNN Classifier](https://github.com/P-Darabi/Diagnosis_Of_Pneumonia_By_CNN_Classifier)
 
-### Prediction Of Ticket Cancellation by XGBoost Classifier (according to Persian Dataset)
+### Prediction Of Ticket Cancellation by XGBoost Classifier (Using the Persian Dataset)
 
 - Description: The objective of this project is to develop a model that accurately predicts whether users will cancel their tickets. Each cancellation incurs a fine for the ticket registration site from the passenger company
 - Technologies: sklearn, xgboost, GridSearchCV, ...
