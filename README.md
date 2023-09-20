@@ -29,7 +29,7 @@ Here are some of the notable data science projects I have worked on. Each projec
 - Technologies: Convolutional neural network, TensorFlow
 - GitHub Repository: [Diagnosis Of Pneumonia By CNN Classifier](https://github.com/P-Darabi/Diagnosis_Of_Pneumonia_By_CNN_Classifier)
 
-### Prediction Of Ticket Cancellation by XGBoost Classifier
+### Prediction Of Ticket Cancellation by XGBoost Classifier (according to Persian Dataset)
 
 - Description: The objective of this project is to develop a model that accurately predicts whether users will cancel their tickets. Each cancellation incurs a fine for the ticket registration site from the passenger company
 - Technologies: sklearn, xgboost, GridSearchCV, ...
@@ -58,8 +58,13 @@ Here are some of the notable data science projects I have worked on. Each projec
 - Description: Analysis of Bank Marketing Strategies for Future Success
 - Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, ensemble, sklearn.metrics
 - GitHub Repository: [Bank Marketing Strategies for Future Success](https://github.com/P-Darabi/Bank_Marketing_Strategies_for_Future_Success)
+  
+### Gender Detection Based on User Information (It is progressing)
+- Description: Gender Detection Based on User Information (NLP)
+- Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, Decision tree-based algorithms, nltk, TfidfVectorizer
+- GitHub Repository: [Gender Detection Based on User Information](https://github.com/P-Darabi/Gender_Detection_Based_on_User_Information)
 
 ## Get in Touch
 
-If you have any questions, collaboration opportunities, or would like to discuss data science projects, please feel free to reach out to me. You can contact me via email at P.K.Darabi@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/parisa-karimi-006551275/).
+If you have any questions, collaboration opportunities, or would like to discuss data science projects, please feel free to reach out to me. You can contact me via email at P.K.Darabi@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/p-karimi-darabi).
 
