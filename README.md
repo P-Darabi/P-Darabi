@@ -66,5 +66,5 @@ Here are some of the notable data science projects I have worked on. Each projec
 
 ## Get in Touch
 
-If you have any questions, collaboration opportunities, or would like to discuss data science projects, please feel free to reach out to me. You can contact me via email at P.K.Darabi@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/p-karimi-darabi).
+If you have any questions, collaboration opportunities, or would like to discuss data science projects, please feel free to reach out to me. You can contact me via email at P.K.Darabi@gmail.com or connect with me on [LinkedIn](www.linkedin.com/p-karimi-darabi).
 
