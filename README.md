@@ -4,13 +4,16 @@ Welcome to my GitHub portfolio! I am Parisa Karimi Darabi, a passionate and skil
 
 ## Skills
 
-- Programming Languages: Python, SQL
-- Machine Learning: Supervised Learning, Unsupervised Learning, Gradient Boosting(AdaBoost, Catboost, LightGBM, XGBoost), Ensemble learning, Model Evaluation and Validation
-- Feature Engineering: Feature Selection, Feature Extraction, Dimensionality Reduction, Imputation, Scaling, Encoding
-- Data Manipulation and Analysis: Pandas, NumPy, Scikit-learn, Data Cleaning, Exploratory Data Analysis
-- Data Visualization: Matplotlib, Seaborn, Plotly, Tableau
-- Deep Learning: TensorFlow, PyTorch, Convolutional Neural Networks(CNN), Recurrent Neural Network(RNN),  Generative Adversarial Network(GAN), You Only Look Once (YOLO)
-- Version Control: GitHub
+•	Programming Languages: Python | T-SQL
+•	Databases: SQL Server 
+•	Machine Learning: Supervised Learning| Unsupervised Learning| Gradient Boosting (AdaBoost, Catboost, LightGBM, XGBoost)| Ensemble learning| Model Evaluation and Validation
+•	Feature Engineering: Feature Selection| Feature Extraction| Dimensionality Reduction| Imputation| Scaling| Encoding
+•	Data Manipulation and Analysis: Pandas| NumPy| Scikit-learn| Data Cleaning| Exploratory Data Analysis
+•	Data Visualization: Matplotlib| Seaborn| Tableau
+•	Deep Learning: TensorFlow| PyTorch| Convolutional Neural Networks (CNN)| Recurrent Neural Network (RNN)| Generative Adversarial Network (GAN)| You Only Look Once (YOLO)
+•	Version Control: GitHub
+•	Familiar with Big Data
+
 
 
 ## Projects
@@ -21,25 +24,25 @@ Here are some of the notable data science projects I have worked on. Each projec
 
 - Description: YOLOv8-Based Traffic Signs Detection Model|Training Using Customized Dataset Of Traffic Signs
 - Technologies: YOLOv8, PyTorch
-- GitHub Repository: [Rice Classification by CNN]()
+- GitHub Repository: [Traffic Signs Detection YOLOv8](https://github.com/P-Darabi/Traffic-Signs-Detection-By-YOLOv8)
 
 ### Generating Anime Faces with DCGAN
 
 - Description: Generating Anime Faces with DCGAN: A Dataset of High-Quality Anime
 - Technologies: Deep Convolutional GAN (DCGAN), PyTorch
-- GitHub Repository: [Rice Classification by CNN]()
+- GitHub Repository: [Generating Anime Faces (DCGAN)](https://github.com/P-Darabi/Generating-Anime-Faces-with-DCGAN)
 
 ### Diagnosis of Diabetic Retinopathy
 
 - Description: Using Convolutional Neural Network for Diabetic Retinopathy Detection
 - Technologies: Convolutional neural network, Pytorch, OOP
-- GitHub Repository: [Rice Classification by CNN]()
+- GitHub Repository: [Diagnosis of Diabetic Retinopathy](https://github.com/P-Darabi/Diagnosis-of-Diabetic-Retinopathy)
 
 ### Brain Tumor Detection
 
 - Description: Using Convolutional Neural Network for Brain Tumor Detection and Diagnosis (F1-score: 0.97)
 - Technologies: Convolutional neural network, Pytorch, OOP
-- GitHub Repository: [Rice Classification by CNN]()
+- GitHub Repository: [Brain Tumor Detection](https://github.com/P-Darabi/Brain-Tumor-Detection)
 
 ### Rice Classification by CNN
 
@@ -50,7 +53,7 @@ Here are some of the notable data science projects I have worked on. Each projec
 ### Diagnosis Of Pneumonia By CNN Classifier
 
 - Description: Chest X-ray Classification for Pneumonia Detection
-- Technologies: Convolutional neural network, TensorFlow
+- Technologies: Convolutional neural network, TensorFlow, Transfer Learning
 - GitHub Repository: [Diagnosis Of Pneumonia By CNN Classifier](https://github.com/P-Darabi/Diagnosis_Of_Pneumonia_By_CNN_Classifier)
 
 ### Prediction Of Ticket Cancellation by XGBoost Classifier (Using the Persian Dataset)
