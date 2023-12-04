@@ -15,7 +15,31 @@ Welcome to my GitHub portfolio! I am Parisa Karimi Darabi, a passionate and skil
 
 ## Projects
 
-Here are some of the notable data science projects I have worked on. Each project demonstrates my ability to analyze data, develop machine learning models, and derive meaningful insights.
+Here are some of the notable data science projects I have worked on. Each project demonstrates my ability to analyze data, develop machine-learning models, and derive meaningful insights.
+
+### Traffic Signs Detection Using YOLOv8
+
+- Description: YOLOv8-Based Traffic Signs Detection Model|Training Using Customized Dataset Of Traffic Signs
+- Technologies: YOLOv8, PyTorch
+- GitHub Repository: [Rice Classification by CNN]()
+
+### Generating Anime Faces with DCGAN
+
+- Description: Generating Anime Faces with DCGAN: A Dataset of High-Quality Anime
+- Technologies: Deep Convolutional GAN (DCGAN), PyTorch
+- GitHub Repository: [Rice Classification by CNN]()
+
+### Diagnosis of Diabetic Retinopathy
+
+- Description: Using Convolutional Neural Network for Diabetic Retinopathy Detection
+- Technologies: Convolutional neural network, Pytorch, OOP
+- GitHub Repository: [Rice Classification by CNN]()
+
+### Brain Tumor Detection
+
+- Description: Using Convolutional Neural Network for Brain Tumor Detection and Diagnosis (F1-score: 0.97)
+- Technologies: Convolutional neural network, Pytorch, OOP
+- GitHub Repository: [Rice Classification by CNN]()
 
 ### Rice Classification by CNN
 
@@ -47,7 +71,7 @@ Here are some of the notable data science projects I have worked on. Each projec
 - Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, linear_model, ensemble, sklearn.metrics
 - GitHub Repository: [Forecasting Life Expectancy By Regression Models](https://github.com/P-Darabi/Forecasting_Life_Expectancy_By_Regression_Models)
 
-### Predict Price Of Diamond By Regression Models
+### Predict the Price Of Diamond By Regression Models
 
 - Description: My primary objective in this problem is to accurately predict the price of diamonds by analyzing a comprehensive set of their defining characteristics
 - Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, linear_model, ensemble, sklearn.metrics
@@ -58,11 +82,6 @@ Here are some of the notable data science projects I have worked on. Each projec
 - Description: Analysis of Bank Marketing Strategies for Future Success
 - Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, ensemble, sklearn.metrics
 - GitHub Repository: [Bank Marketing Strategies for Future Success](https://github.com/P-Darabi/Bank_Marketing_Strategies_for_Future_Success)
-  
-### Gender Detection Based on User Information (It is progressing)
-- Description: Gender Detection Based on User Information (NLP)
-- Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, Decision tree-based algorithms, nltk, TfidfVectorizer
-- GitHub Repository: [Gender Detection Based on User Information](https://github.com/P-Darabi/Gender_Detection_Based_on_User_Information)
 
 ## Get in Touch
 
