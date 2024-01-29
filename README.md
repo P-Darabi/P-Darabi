@@ -26,7 +26,7 @@ Here are some of the notable data science projects I have worked on. Each projec
 
 ### Generating Anime Faces with DCGAN
 
-- Description: Generating Anime Faces with DCGAN: A Dataset of High-Quality Anime
+- Description: Generating Anime Faces with DCGAN: A Dataset of High Quality Anime
 - Technologies: Deep Convolutional GAN (DCGAN), PyTorch
 - GitHub Repository: [Generating Anime Faces (DCGAN)](https://github.com/P-Darabi/Generating-Anime-Faces-with-DCGAN)
 
