@@ -24,50 +24,50 @@ The following are some of the notable data science projects I have worked on. Ea
 
 💡**Diagnosis Diabetic Retinopathy (PyTorch)**
 - Description: Using Convolutional Neural Network for Diabetic Retinopathy Detection
-- Technologies: Convolutional neural network, Pytorch, OOP
+- Technologies: Convolutional Neural Network, Pytorch, OOP
 - GitHub Repository: [Diagnosis of Diabetic Retinopathy](https://github.com/P-Darabi/Diagnosis-of-Diabetic-Retinopathy)
   
   
 💡**Detection Brain Tumor (PyTorch)**
 - Description: Using Convolutional Neural Network for Brain Tumor Detection and Diagnosis (F1-score: 0.97)
-- Technologies: Convolutional neural network, Pytorch, OOP
+- Technologies: Convolutional Neural Network, Pytorch, OOP
 - GitHub Repository: [Brain Tumor Detection](https://github.com/P-Darabi/Brain-Tumor-Detection)
   
 
 💡**Pneumonia Diagnosis (Transfer Learning)**
 - Description: Chest X-ray Classification for Pneumonia Detection
-- Technologies: Convolutional neural network, TensorFlow, Transfer Learning
+- Technologies: Convolutional Neural Network, TensorFlow, Transfer Learning
 - GitHub Repository: [Diagnosis Of Pneumonia By CNN Classifier](https://github.com/P-Darabi/Diagnosis_Of_Pneumonia_By_CNN_Classifier)
   
    
 💡**Ticket Cancellation Prediction (XGBoost Classifier)**
 - Description: This project aims to develop a model that accurately predicts whether users will cancel their tickets. Each cancellation incurs a fine for the ticket registration site from the passenger company
-- Technologies: sklearn, xgboost, GridSearchCV, ...
+- Technologies: Sklearn, Xgboost, GridSearchCV, ...
 - GitHub Repository: [Prediction Of Ticket Cancellation by XGBoost Classifier](https://github.com/P-Darabi/Prediction_Of_Ticket_Cancellation_Acc_98/tree/main)
   
 
 💡**Category Prediction in an Advertisement Website** 
 - Description: Category Prediction in an Advertisement Website
-- Technologies: sklearn, GridSearchCV, SVM, RandomForest, XGBoost, sklearn.metrics, Textual Vectorization, TF-IDF vectorization
+- Technologies: Sklearn, GridSearchCV, SVM, RandomForest, XGBoost, Sklearn.metrics, Textual Vectorization, TF-IDF vectorization
 - GitHub Repository: [Category-Prediction-in-an-Advertisement-Website](https://github.com/P-MLSpecialist/Category-Prediction-in-an-Advertisement-Website)
   
 
 💡**Detection of Type-2 Diabetes Mellitus Disease**
 - Description: XGBoost and CatBoost are powerful machine-learning models that can be used to predict diabetes
-- Technologies: sklearn, xgboost, catboost, GridSearchCV, ...
+- Technologies: Sklearn, Xgboost, Catboost, GridSearchCV, ...
 - GitHub Repository: [Prediction Of Diabetes XGBoost CatBoost](https://github.com/P-Darabi/Prediction_Of_Diabetes_XGBoost_CatBoost)
   
 
 💡**Analyzing Previous Marketing Campaign Patterns** 
 - Description: Analysis of Bank Marketing Strategies for Future Success
-- Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, ensemble, sklearn.metrics
+- Technologies: Sklearn, Numpy, Pandas, Matplotlib, Seaborn, GridSearchCV, Ensemble, Sklearn.metrics
 - GitHub Repository: [[Bank Marketing Strategies for Future Success](https://github.com/P-Darabi/Bank_Marketing_Strategies_for_Future_Success)
 
 ## Predictive model
 
 💡**Predict the Price Of Diamond (Regression Models)**
 - Description: My primary objective in this problem is to accurately predict the price of diamonds by analyzing a comprehensive set of their defining characteristics
-- Technologies: sklearn, numpy, pandas, matplotlib, seaborn, GridSearchCV, linear_model, ensemble, sklearn.metrics
+- Technologies: Sklearn, Numpy, Pandas, Matplotlib, Seaborn, GridSearchCV, Linear_model, Ensemble, Sklearn.metrics
 - GitHub Repository: [Predict Price Of Diamond By Regression Models](https://github.com/P-Darabi/Predict_Price_Of_Diamond/tree/main)
 
 ## Object Detection & Tracking
@@ -90,7 +90,7 @@ The following are some of the notable data science projects I have worked on. Ea
 
 💡**Data Preprocessing For Machine Learning**
 - Description: Pre-processing Data: A Step-by-Step Guide and Professional Approach using Class Definition
-- Technologies: OOP, sklearnlearn, Feature Engineering, Feature selection 
+- Technologies: OOP, Sklearnlearn, Feature Engineering, Feature selection 
 - In Kaggle: [Data Preprocessing For Machine Learning](https://www.kaggle.com/code/pkdarabi/data-preprocessing-for-machine-learning))
 
 ## Object segmentation
