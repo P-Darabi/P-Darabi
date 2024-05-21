@@ -7,11 +7,11 @@ I'm not just a **Machine Learning Specialist**; I'm a wizard who transforms raw 
 ## Core Skills:
 
 - 🐍 **Programming Languages:** Python
-- 🎛️ **Databases:** SQL Server| Redis| MongoDB
+- 🎛️ **Databases:** SQL Server| MongoDB
 - 🤖 **Machine Learning:** Supervised Learning| Unsupervised Learning| Gradient Boosting| Ensemble learning| Model Evaluation| Validation
 - 🛠️ **Feature Engineering:** Feature Selection| Feature Extraction| Dimensionality Reduction| Imputation| Scaling| Encoding
 - 📊 **Data Manipulation & Analysis:** Pandas| NumPy| Data Cleaning| Exploratory Data Analysis 
-- 📈 **Data Visualization:** Matplotlib| Seaborn| Tableau 
+- 📈 **Data Visualization:** Matplotlib| Seaborn 
 - 🧠 **Deep Learning:** TensorFlow| PyTorch| Convolutional Neural Networks (CNN)| Generative Adversarial Network (GAN)| You Only Look Once (YOLO)| Auto Encoder| Self-Organising Map (SOM)  
 - 📸 **Computer Vision:** Image Classification| Object Recognition| Image Processing| OpenCV| Object Detection| Object Segmentation| Object Tracking| Facial Recognition
 - 🌀 **Version Control:** GitHub
