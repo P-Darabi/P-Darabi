@@ -2,7 +2,9 @@
 
 🚀 **Data** is God in the world of Machine Learning! Ready to dive into a world where data reigns supreme? Let's make magic together!
 
-I'm not just a **Machine Learning Specialist**; I'm a wizard who transforms raw data into a symphony of predictive models. I've been immersed in **Machine Learning** and **Computer Vision** as a **Researcher** and **Developer**.
+I am a **Computer Vision Researcher** and **Machine Learning Specialist** passionate about leveraging advanced algorithms to solve real-world challenges. I strive to contribute to the **data science** community by sharing knowledge, collaborating on innovative projects, and fostering collective growth.  
+
+Let’s connect, learn, and work towards impactful AI-driven solutions together! 
 
 ## Core Skills:
 
