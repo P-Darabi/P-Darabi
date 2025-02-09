@@ -6,17 +6,16 @@ I am a **Computer Vision Researcher** and **Machine Learning Specialist** passio
 
 Let’s connect, learn, and work towards impactful AI-driven solutions together! 
 
-## Core Skills:
 
-- 🐍 **Programming Languages:** Python
-- 🎛️ **Databases:** SQL Server| MongoDB
-- 🤖 **Machine Learning:** Supervised Learning| Unsupervised Learning| Gradient Boosting| Ensemble learning| Model Evaluation| Validation
-- 🛠️ **Feature Engineering:** Feature Selection| Feature Extraction| Dimensionality Reduction| Imputation| Scaling| Encoding
-- 📊 **Data Manipulation & Analysis:** Pandas| NumPy| Data Cleaning| Exploratory Data Analysis 
-- 📈 **Data Visualization:** Matplotlib| Seaborn 
-- 🧠 **Deep Learning:** TensorFlow| PyTorch| Convolutional Neural Networks (CNN)| You Only Look Once (YOLO)| Auto Encoder| Self-Organising Map (SOM)  
-- 📸 **Computer Vision:** Image Classification| Object Recognition| Image Processing| OpenCV| Object Detection| Object Segmentation| Object Tracking| Facial Recognition
-- 🌀 **Version Control:** GitHub
+## Technical Skills:
+🔹 **Programming Languages:** Python
+🔹 **Databases:** SQL Server | PostgreSQL | MongoDB
+🔹 **Machine Learning & Data Science:** Supervised & Unsupervised Learning | Gradient Boosting (AdaBoost, CatBoost, LightGBM, XGBoost) | Ensemble Learning | Feature Engineering | Model Evaluation & Validation
+🔹 **Deep Learning & Computer Vision:** TensorFlow | PyTorch | Convolutional Neural Networks (CNN) | Generative Adversarial Networks (GAN) | You Only Look Once (YOLO) | Image Processing & Segmentation
+🔹 **Data Manipulation & Analysis:** Pandas | NumPy | Scikit-learn | Data Cleaning | Exploratory Data Analysis
+🔹 **Data Visualization:** Matplotlib | Seaborn
+🔹 **Model Deployment & API Development:** Django REST Framework | FastAPI
+🔹 **Version Control & Collaboration:** GitHub
 
 ## Projects
 
