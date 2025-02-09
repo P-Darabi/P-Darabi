@@ -9,12 +9,19 @@ Let’s connect, learn, and work towards impactful AI-driven solutions together!
 
 ## Technical Skills:
 🔹 **Programming Languages:** Python
+
 🔹 **Databases:** SQL Server | PostgreSQL | MongoDB
+
 🔹 **Machine Learning & Data Science:** Supervised & Unsupervised Learning | Gradient Boosting (AdaBoost, CatBoost, LightGBM, XGBoost) | Ensemble Learning | Feature Engineering | Model Evaluation & Validation
+
 🔹 **Deep Learning & Computer Vision:** TensorFlow | PyTorch | Convolutional Neural Networks (CNN) | Generative Adversarial Networks (GAN) | You Only Look Once (YOLO) | Image Processing & Segmentation
+
 🔹 **Data Manipulation & Analysis:** Pandas | NumPy | Scikit-learn | Data Cleaning | Exploratory Data Analysis
+
 🔹 **Data Visualization:** Matplotlib | Seaborn
+
 🔹 **Model Deployment & API Development:** Django REST Framework | FastAPI
+
 🔹 **Version Control & Collaboration:** GitHub
 
 ## Projects
