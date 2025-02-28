@@ -2,7 +2,7 @@
 
 🚀 **Data** is God in the world of Machine Learning! Ready to dive into a world where data reigns supreme? Let's make magic together!
 
-I am a **Computer Vision Researcher** and **Machine Learning Specialist** passionate about leveraging advanced algorithms to solve real-world challenges. I strive to contribute to the **data science** community by sharing knowledge, collaborating on innovative projects, and fostering collective growth.  
+I am a **Computer Vision Researcher** and **Machine Learning Engineer** passionate about leveraging advanced algorithms to solve real-world challenges. I strive to contribute to the **data science** community by sharing knowledge, collaborating on innovative projects, and fostering collective growth.  
 
 Let’s connect, learn, and work towards impactful AI-driven solutions together! 
 
@@ -10,7 +10,7 @@ Let’s connect, learn, and work towards impactful AI-driven solutions together!
 ## Technical Skills:
 🔹 **Programming Languages:** Python
 
-🔹 **Databases:** SQL Server | PostgreSQL | MongoDB
+🔹 **Databases:** SQL Server | PostgreSQL 
 
 🔹 **Machine Learning & Data Science:** Supervised & Unsupervised Learning | Gradient Boosting (AdaBoost, CatBoost, LightGBM, XGBoost) | Ensemble Learning | Feature Engineering | Model Evaluation & Validation
 
