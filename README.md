@@ -1,18 +1,24 @@
-<h1 align="center"> Data is God in the world of Machine Learning </h1>
+<h1 align="center">Welcome to My World of Data, Code & AI Magic</h1>
 
 <p align="center">
-   <br>Ready to dive into a world where data reigns supreme?<br>
-  <b>Let's make magic together!</b>
+  <i>“Data is God in the world of Machine Learning”</i>
 </p>
 
 ---
 
-I am a **Computer Vision Researcher** and **Machine Learning Engineer** passionate about leveraging advanced algorithms to solve real-world challenges.  
-I strive to contribute to the **data science** community by sharing knowledge, collaborating on innovative projects, and fostering collective growth.  
+<p align="center">
+  I’m a <b>Computer Vision Researcher</b> and <b>Machine Learning Engineer</b> passionate about solving real-world challenges using cutting-edge algorithms.
+  <br><br>
+  I share knowledge, build smart solutions, and collaborate on innovations that matter.
+</p>
 
-Let’s connect, learn, and work towards impactful AI-driven solutions together! 🤝
+<p align="center">
+  🔗 Let’s connect, learn, and work towards impactful AI-driven solutions!
+</p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=P-Darabi&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
 
 ## 🧠 Technical Skills
 
