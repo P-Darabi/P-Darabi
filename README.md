@@ -1,111 +1,147 @@
-**Hey Data Dreamers!!**
+<h1 align="center"> Data is God in the world of Machine Learning </h1>
 
-🚀 **Data** is God in the world of Machine Learning! Ready to dive into a world where data reigns supreme? Let's make magic together!
+<p align="center">
+   <br>Ready to dive into a world where data reigns supreme?<br>
+  <b>Let's make magic together!</b>
+</p>
 
-I am a **Computer Vision Researcher** and **Machine Learning Engineer** passionate about leveraging advanced algorithms to solve real-world challenges. I strive to contribute to the **data science** community by sharing knowledge, collaborating on innovative projects, and fostering collective growth.  
+---
 
-Let’s connect, learn, and work towards impactful AI-driven solutions together! 
+I am a **Computer Vision Researcher** and **Machine Learning Engineer** passionate about leveraging advanced algorithms to solve real-world challenges.  
+I strive to contribute to the **data science** community by sharing knowledge, collaborating on innovative projects, and fostering collective growth.  
 
+Let’s connect, learn, and work towards impactful AI-driven solutions together! 🤝
 
-## Technical Skills:
-🔹 **Programming Languages:** Python
+---
 
-🔹 **Databases:** SQL Server | PostgreSQL 
+## 🧠 Technical Skills
 
-🔹 **Machine Learning & Data Science:** Supervised & Unsupervised Learning | Gradient Boosting (AdaBoost, CatBoost, LightGBM, XGBoost) | Ensemble Learning | Feature Engineering | Model Evaluation & Validation
+- **Programming Languages:** Python  
+- **Databases:** SQL Server | PostgreSQL  
+- **Machine Learning & Data Science:** Supervised & Unsupervised Learning | Gradient Boosting (AdaBoost, CatBoost, LightGBM, XGBoost) | Ensemble Learning | Feature Engineering | Model Evaluation & Validation  
+- **Deep Learning & Computer Vision:** TensorFlow | PyTorch | CNN | GAN | YOLO | Image Processing & Segmentation  
+- **Data Manipulation & Analysis:** Pandas | NumPy | Scikit-learn  
+- **Data Visualization:** Matplotlib | Seaborn  
+- **Model Deployment & API Development:** Django REST Framework | FastAPI  
+- **Version Control & Collaboration:** GitHub  
 
-🔹 **Deep Learning & Computer Vision:** TensorFlow | PyTorch | Convolutional Neural Networks (CNN) | Generative Adversarial Networks (GAN) | You Only Look Once (YOLO) | Image Processing & Segmentation
+---
 
-🔹 **Data Manipulation & Analysis:** Pandas | NumPy | Scikit-learn | Data Cleaning | Exploratory Data Analysis
+## 🚀 Projects
 
-🔹 **Data Visualization:** Matplotlib | Seaborn
+### 🧪 Classification Models
 
-🔹 **Model Deployment & API Development:** Django REST Framework | FastAPI
+- **Diagnosis Diabetic Retinopathy (PyTorch)**  
+  [🔗 GitHub](https://github.com/P-Darabi/Diagnosis-of-Diabetic-Retinopathy)
 
-🔹 **Version Control & Collaboration:** GitHub
+- **Detection Brain Tumor (PyTorch)**  
+  [🔗 GitHub](https://github.com/P-Darabi/Brain-Tumor-Detection)
 
-## Projects
+- **Pneumonia Diagnosis (Transfer Learning)**  
+  [🔗 GitHub](https://github.com/P-Darabi/Diagnosis_Of_Pneumonia_By_CNN_Classifier)
 
-The following are some of the notable data science projects I have worked on. Each project showcases my skills in data analysis, machine learning model development, and insights extraction.
+- **Ticket Cancellation Prediction (XGBoost)**  
+  [🔗 GitHub](https://github.com/P-Darabi/Prediction_Of_Ticket_Cancellation_Acc_98)
 
-## Classification Models
+- **Category Prediction in an Advertisement Website**  
+  [🔗 GitHub](https://github.com/P-MLSpecialist/Category-Prediction-in-an-Advertisement-Website)
 
-💡**Diagnosis Diabetic Retinopathy (PyTorch)**
-- Description: Using Convolutional Neural Network for Diabetic Retinopathy Detection
-- Technologies: Convolutional Neural Network, Pytorch, OOP
-- GitHub Repository: [Diagnosis of Diabetic Retinopathy](https://github.com/P-Darabi/Diagnosis-of-Diabetic-Retinopathy)
-  
-  
-💡**Detection Brain Tumor (PyTorch)**
-- Description: Using Convolutional Neural Network for Brain Tumor Detection and Diagnosis (F1-score: 0.97)
-- Technologies: Convolutional Neural Network, Pytorch, OOP
-- GitHub Repository: [Brain Tumor Detection](https://github.com/P-Darabi/Brain-Tumor-Detection)
-  
+- **Detection of Type-2 Diabetes Mellitus**  
+  [🔗 GitHub](https://github.com/P-Darabi/Prediction_Of_Diabetes_XGBoost_CatBoost)
 
-💡**Pneumonia Diagnosis (Transfer Learning)**
-- Description: Chest X-ray Classification for Pneumonia Detection
-- Technologies: Convolutional Neural Network, TensorFlow, Transfer Learning
-- GitHub Repository: [Diagnosis Of Pneumonia By CNN Classifier](https://github.com/P-Darabi/Diagnosis_Of_Pneumonia_By_CNN_Classifier)
-  
-   
-💡**Ticket Cancellation Prediction (XGBoost Classifier)**
-- Description: This project aims to develop a model that accurately predicts whether users will cancel their tickets. Each cancellation incurs a fine for the ticket registration site from the passenger company
-- Technologies: Sklearn, Xgboost, GridSearchCV, ...
-- GitHub Repository: [Prediction Of Ticket Cancellation by XGBoost Classifier](https://github.com/P-Darabi/Prediction_Of_Ticket_Cancellation_Acc_98/tree/main)
-  
+- **Analyzing Previous Marketing Campaigns**  
+  [🔗 GitHub](https://github.com/P-Darabi/Bank_Marketing_Strategies_for_Future_Success)
 
-💡**Category Prediction in an Advertisement Website** 
-- Description: Category Prediction in an Advertisement Website
-- Technologies: Sklearn, GridSearchCV, SVM, RandomForest, XGBoost, Sklearn.metrics, Textual Vectorization, TF-IDF vectorization
-- GitHub Repository: [Category-Prediction-in-an-Advertisement-Website](https://github.com/P-MLSpecialist/Category-Prediction-in-an-Advertisement-Website)
-  
+### 📈 Predictive Modeling
 
-💡**Detection of Type-2 Diabetes Mellitus Disease**
-- Description: XGBoost and CatBoost are powerful machine-learning models that can be used to predict diabetes
-- Technologies: Sklearn, Xgboost, Catboost, GridSearchCV, ...
-- GitHub Repository: [Prediction Of Diabetes XGBoost CatBoost](https://github.com/P-Darabi/Prediction_Of_Diabetes_XGBoost_CatBoost)
-  
+- **Predict the Price Of Diamond**  
+  [🔗 GitHub](https://github.com/P-Darabi/Predict_Price_Of_Diamond)
 
-💡**Analyzing Previous Marketing Campaign Patterns** 
-- Description: Analysis of Bank Marketing Strategies for Future Success
-- Technologies: Sklearn, Numpy, Pandas, Matplotlib, Seaborn, GridSearchCV, Ensemble, Sklearn.metrics
-- GitHub Repository: [[Bank Marketing Strategies for Future Success](https://github.com/P-Darabi/Bank_Marketing_Strategies_for_Future_Success)
+### 🎯 Object Detection & Tracking
 
-## Predictive model
+- **YOLOv8 Signs Detection**  
+  [🔗 GitHub](https://github.com/P-Darabi/Traffic-Signs-Detection-By-YOLOv8)
 
-💡**Predict the Price Of Diamond (Regression Models)**
-- Description: My primary objective in this problem is to accurately predict the price of diamonds by analyzing a comprehensive set of their defining characteristics
-- Technologies: Sklearn, Numpy, Pandas, Matplotlib, Seaborn, GridSearchCV, Linear_model, Ensemble, Sklearn.metrics
-- GitHub Repository: [Predict Price Of Diamond By Regression Models](https://github.com/P-Darabi/Predict_Price_Of_Diamond/tree/main)
+- **YOLOv8 Car Tracking** *(coming soon)*
 
-## Object Detection & Tracking
+### 🎨 Generative AI
 
-💡**YOLOv8 Signs Detection**
-- Description: YOLOv8-Based Traffic Signs Detection Model|Training Using Customized Dataset Of Traffic Signs
-- Technologies: YOLOv8, PyTorch
-- GitHub Repository: [Traffic Signs Detection YOLOv8](https://github.com/P-Darabi/Traffic-Signs-Detection-By-YOLOv8)
+- **Generating Anime Faces (DCGAN)**  
+  [🔗 GitHub](https://github.com/P-Darabi/Generating-Anime-Faces-with-DCGAN)
 
-💡**YOLOv8 Car Tracking** 
+### 🛠️ Data Preprocessing
 
-## Generative AI
+- **Data Preprocessing for ML**  
+  [🔗 Kaggle](https://www.kaggle.com/code/pkdarabi/data-preprocessing-for-machine-learning)
 
-💡**Generating Anime Faces**
-- Description: The project has successfully generated compelling anime faces that showcase the realism achieved with DCGAN
-- Technologies: TensorFlow, DCGAN
-- GitHub Repository: [Generating Anime Faces (DCGAN)](https://github.com/P-Darabi/Generating-Anime-Faces-with-DCGAN)
+### 🧬 Medical Image Segmentation
 
-## Data Preprocessing 
+- **Medical Image Segmentation (Kidney Tumor)** *(coming soon)*
 
-💡**Data Preprocessing For Machine Learning**
-- Description: Pre-processing Data: A Step-by-Step Guide and Professional Approach using Class Definition
-- Technologies: OOP, Sklearnlearn, Feature Engineering, Feature selection 
-- In Kaggle: [Data Preprocessing For Machine Learning](https://www.kaggle.com/code/pkdarabi/data-preprocessing-for-machine-learning))
+---
 
-## Object segmentation
+## 📊 GitHub Stats
 
-💡**Medical Image Segmentation (kidney Tumor)**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=P-Darabi&show_icons=true&count_private=true&include_all_commits=true&theme=radical" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=P-Darabi&theme=radical" />
+</p>
 
-### Get in Touch
-If you have inquiries, or collaboration opportunities, or wish to delve into discussions regarding data science projects, please don't hesitate to get in touch. I welcome your outreach and can be reached via [email](P.K.Darabi@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/p-karimi-darabi).
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=P-Darabi&layout=compact&theme=radical" />
+</p>
 
+---
+
+## 🏋️ GitHub Activity Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=P-Darabi&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=P-Darabi&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=P-Darabi&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=P-Darabi&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=P-Darabi&theme=radical&utcOffset=4" />
+</p>
+
+---
+
+## 🏅 Tech Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLOv8-FF4088?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## ⌛️ Contribution Timeline
+
+<p align="center">
+  <img src="https://github-contribution-trophy.vercel.app/?username=P-Darabi&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophy" />
+</p>
+
+---
+
+## 📢 Get in Touch
+
+If you have inquiries, collaboration opportunities, or wish to discuss AI and ML projects, feel free to connect:
+
+- 📧 Email: [P.K.Darabi@gmail.com](mailto:P.K.Darabi@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/p-karimi-darabi](https://www.linkedin.com/in/p-karimi-darabi)
+
+---
+
+🌟 If you like what I do, consider giving a ⭐️ to my projects!
