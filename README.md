@@ -145,7 +145,7 @@
 
 If you have inquiries, collaboration opportunities, or wish to discuss AI and ML projects, feel free to connect:
 
-- 🧬 Kaggle: [P.K.Darabi@gmail.com](https://www.kaggle.com/pkdarabi)
+- 🧬 Kaggle: [https://www.kaggle.com/pkdarabi](https://www.kaggle.com/pkdarabi)
 - 📧 Email: [P.K.Darabi@gmail.com](mailto:P.K.Darabi@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/p-karimi-darabi](https://www.linkedin.com/in/p-karimi-darabi)
 
